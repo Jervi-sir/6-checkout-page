@@ -71,7 +71,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub   [@Jervi-sir](https://{github.com/Jervi-sir})
+- GitHub   [@Jervi-sir](https://github.com/Jervi-sir)
 - Facebook [Gacem_humen](https://www.facebook.com/gacem.humen/)
 - Twitter  comingsoon
 - Youtube  comingsoon
